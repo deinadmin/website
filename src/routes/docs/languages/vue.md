@@ -22,6 +22,7 @@ Here are a few Vue.js example projects that are already automated with Gitpod:
 | [vuepress](https://github.com/vuejs/vuepress)         | Minimalistic Vue-powered static site generator                                  | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vuejs/vuepress)        |
 | [postwoman](https://github.com/liyasthomas/postwoman) | A free, fast and beautiful API request builder (web alternative to Postman)     | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/liyasthomas/postwoman) |
 | [nuxtjs.org](https://github.com/nuxt/nuxtjs.org)      | Nuxt.js Documentation Website (Universal Vue.js Application built with Nuxt.js) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nuxt/nuxtjs.org)       |
+| [vuejs-firebase-example](https://github.com/deinadmin/vuejs-firebase-example) | An example project using VueJS and Firebase.            | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/deinadmin/vuejs-firebase-example)       |
 
 </div>
 
